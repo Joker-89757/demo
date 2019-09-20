@@ -1,0 +1,10 @@
+spring:
+  messages:
+    basename: i18n.login
+
+  thymeleaf:
+    cache: false
+
+#logging:
+#  level:
+#    root: trace
